@@ -1,3 +1,8 @@
+"""
+Author: Albino Mareleco
+"Vetor confirmado."
+"""
+
 raw_contacts = [
     ("Alice", "555-0101"),
     ("Bob", "555-0102"),
