@@ -1,4 +1,8 @@
 # Simple CLI To-Do Manager using conditionals and list operations
+"""
+Author: Albino Mareleco
+"vetor confirmado"
+"""
 todo=[]
 print("""Ready
 
