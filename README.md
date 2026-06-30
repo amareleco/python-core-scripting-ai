@@ -18,28 +18,6 @@ Demonstrar a evolução técnica na linguagem Python, aplicando conceitos de arq
 
 ---
 
-## 📂 Estrutura de Projetos
-
-Abaixo estão listados os principais projetos e módulos práticos desenvolvidos:
-
-### 1. [Nome do Projeto 1 - Ex: Automatizador de Backups]
-* **Descrição:** Breve resumo do que o script faz (ex: Varre diretórios específicos, comprime arquivos e envia para um servidor em nuvem).
-* **Conceitos Python:** `os`, `shutil`, `sys`, manipulação de caminhos com `pathlib`.
-* **Toque de IA:** Otimização de concorrência e tratamento de exceções gerados via IA.
-
-### 2. [Nome do Projeto 2 - Ex: Web Scraper Inteligente]
-* **Descrição:** Script para extração de dados públicos e estruturação em formatos limpos (JSON/CSV).
-* **Conceitos Python:** `requests`, `BeautifulSoup`, `json`.
-* **Toque de IA:** Criação de expressões regulares (Regex) complexas guiadas por IA para limpeza de dados.
-
-### 3. [Nome do Projeto 3 - Ex: Monitor de Sistema Automatizado]
-* **Descrição:** Ferramenta que analisa o consumo de recursos da máquina e gera alertas visuais ou via logs.
-* **Conceitos Python:** `psutil`, logging avançado, manipulação de subprocessos.
-
-*(Dica: Vá atualizando esta seção à medida que avançar nos módulos do curso!)*
-
----
-
 ## 🔧 Como Executar os Projetos
 
 ### Pré-requisitos
